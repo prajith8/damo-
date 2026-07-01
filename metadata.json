@@ -1,0 +1,6 @@
+{
+  "name": "Premium Resume Maker",
+  "description": "Create, customize, and print premium resume profiles with elegant professional templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
